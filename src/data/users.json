@@ -1,0 +1,13 @@
+
+[
+  {
+    "email": "ndma@example.com",
+    "password": "password",
+    "role": "ndma"
+  },
+  {
+    "email": "partner@example.com",
+    "password": "password",
+    "role": "partner"
+  }
+]
